@@ -15,7 +15,7 @@ os.environ['CURL_CA_BUNDLE'] = ''
 from google import genai
 
 client = genai.Client(
-    api_key = "AIzaSyCbfmGD1JvtwiOo8C7P80y6I0n3id87I7E"
+    api_key = ""
     
 )
 
